@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guided Learning"
+  short_description: "Turn source material into an adaptive learning plan"
+  default_prompt: "Use $guided-learning to build a study plan from this source."

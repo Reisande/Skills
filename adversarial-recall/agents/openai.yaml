@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Recall"
+  short_description: "Test understanding and schedule weak concepts for review"
+  default_prompt: "Use $adversarial-recall to test my understanding of this material."
